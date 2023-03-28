@@ -1,0 +1,13 @@
+#これはgitignoreです
+#追加したファイルは管理外になります。
+
+#spring-api-test
+./spring-api-test/build.gradle
+./spring-api-test/src/main/resources/application.properties
+./spring-api-test/build
+
+#mysql
+./mysql/settings
+
+#docker
+./docker-compose.yml
