@@ -1,5 +1,8 @@
 #これはgitignoreです
 #追加したファイルは管理外になります。
+#git rm -r --cached . //ファイル全体キャッシュ削除
+# git status --ignored
+
 
 #spring-api-test
 ./spring-api-test/build.gradle
